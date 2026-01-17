@@ -1,0 +1,17 @@
+# Dataset - Too large (3GB)
+asl_alphabet_train/
+asl_alphabet_test/
+*.zip
+
+# Virtual Environment
+projectvenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# OS files
+.DS_Store
